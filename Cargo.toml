@@ -1,7 +1,7 @@
 [package]
 name = "sl_cli"
 description = "Easy & improved symbolic link creation"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Gregory <gregory.mkv@gmail.com>"]
 edition = "2018"
 license = "MIT"
