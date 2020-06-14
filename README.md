@@ -8,3 +8,11 @@ Because `ln` is annoying and ambiguous. This is basically `ln -sT` with some nic
 - the symbolic link is created along with any parent directories, if necessary
 - Only one way to create a symlink
   - yeah, this is a feature because `ln` has 4 ways of doing it
+
+## Install
+
+```
+cargo install sl_cli
+```
+
+or grab a binary from [here](https://github.com/chmln/sl/releases)
