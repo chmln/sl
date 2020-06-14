@@ -1,0 +1,11 @@
+[package]
+name = "sl"
+description = "Easy & improved symbolic link creation"
+version = "0.1.0"
+authors = ["Gregory <gregory.mkv@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "3.0.0-beta.1"
+libc = "0.2.71"
+thiserror = "1.0.19"
