@@ -145,7 +145,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "sl"
+name = "sl_cli"
 version = "1.0.0"
 dependencies = [
  "clap",
