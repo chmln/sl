@@ -4,6 +4,7 @@ description = "Easy & improved symbolic link creation"
 version = "0.1.0"
 authors = ["Gregory <gregory.mkv@gmail.com>"]
 edition = "2018"
+license = "MIT"
 
 [dependencies]
 clap = "3.0.0-beta.1"
