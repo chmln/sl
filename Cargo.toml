@@ -11,6 +11,6 @@ name = "sl"
 path = "src/main.rs"
 
 [dependencies]
-clap = "3.0.0-beta.1"
-libc = "0.2.71"
-thiserror = "1.0.19"
+clap = "3.0.0-beta.2"
+libc = "0.2.94"
+thiserror = "1.0.24"
